@@ -323,6 +323,11 @@ span {
 .review-description{
     color: #727272;
 }
+.left-right{
+    width: 50px;
+    padding:50px 770px 0 770px;
+}
+
 /* end of review styles*/
 
 
